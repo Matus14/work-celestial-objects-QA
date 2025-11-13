@@ -1,0 +1,10 @@
+{
+  "objectName": "Test-Smoke",
+  "objectType": "PLANET",
+  "objectDesignation": "TS-1",
+  "discoveryYear": 2025,
+  "distanceFromSunAu": 1.1,
+  "objectMassToEarth": 1.0,
+  "objectSpeedKmS": 10.5,
+  "shortDescription": "Smoke test object"
+}

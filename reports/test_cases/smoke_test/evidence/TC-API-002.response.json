@@ -1,0 +1,13 @@
+{
+  "id": 10,
+  "objectName": "Atlas-A1",
+  "objectType": "PLANET",
+  "objectDesignation": "AT-A1",
+  "discoveryYear": 1901,
+  "distanceFromSunAu": 2.3,
+  "objectSpeedKmS": 1.7,
+  "objectMassToEarth": 24.5,
+  "shortDescription": "smoke seed",
+  "imageMainUrl": "string",
+  "createdAt": "2025-11-10T13:14:39.64174"
+}
