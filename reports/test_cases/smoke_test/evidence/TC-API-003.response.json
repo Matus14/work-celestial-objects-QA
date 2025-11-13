@@ -1,0 +1,68 @@
+{
+  "content": [
+    {
+      "id": 10,
+      "objectName": "Atlas-A1",
+      "objectType": "PLANET",
+      "objectDesignation": "AT-A1",
+      "discoveryYear": 1901,
+      "distanceFromSunAu": 2.3,
+      "objectSpeedKmS": 1.7,
+      "objectMassToEarth": 24.5,
+      "shortDescription": "smoke seed",
+      "imageMainUrl": "string",
+      "createdAt": "2025-11-10T13:14:39.64174"
+    },
+    {
+      "id": 5,
+      "objectName": "Earth",
+      "objectType": "Planet",
+      "objectDesignation": "EART03",
+      "discoveryYear": 0,
+      "distanceFromSunAu": 1,
+      "objectSpeedKmS": 29.78,
+      "objectMassToEarth": 1,
+      "shortDescription": "Test autoupdate",
+      "imageMainUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg",
+      "createdAt": "2025-10-18T21:00:41.620471"
+    },
+    {
+      "id": 9,
+      "objectName": "Halley's Comet",
+      "objectType": "Comet",
+      "objectDesignation": "HALC07",
+      "discoveryYear": 1758,
+      "distanceFromSunAu": 35.08,
+      "objectSpeedKmS": 54.6,
+      "objectMassToEarth": 0,
+      "shortDescription": "Short-period comet visible every 75 years.",
+      "imageMainUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Halley%27s_Comet_-_1986.jpg",
+      "createdAt": "2025-10-18T21:00:41.620471"
+    }
+  ],
+  "pageable": {
+    "pageNumber": 0,
+    "pageSize": 3,
+    "sort": {
+      "empty": false,
+      "sorted": true,
+      "unsorted": false
+    },
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "last": false,
+  "totalPages": 3,
+  "totalElements": 8,
+  "numberOfElements": 3,
+  "size": 3,
+  "number": 0,
+  "sort": {
+    "empty": false,
+    "sorted": true,
+    "unsorted": false
+  },
+  "first": true,
+  "empty": false
+}

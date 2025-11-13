@@ -1,0 +1,13 @@
+{
+  "id": 10,
+  "objectName": "Atlas-A2",
+  "objectType": "Moon",
+  "objectDesignation": "Moon-1",
+  "discoveryYear": 2000,
+  "distanceFromSunAu": 1.9,
+  "objectSpeedKmS": 9.5,
+  "objectMassToEarth": 4.5,
+  "shortDescription": "UPDATED",
+  "imageMainUrl": "not existing",
+  "createdAt": "2025-11-10T13:14:39.64174"
+}
